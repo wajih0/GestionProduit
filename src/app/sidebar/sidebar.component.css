@@ -1,0 +1,25 @@
+.sidebar {
+    width: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    position: fixed; /* Utiliser "fixed" pour positionner la sidebar par rapport à la fenêtre */
+    top: 20; /* Positionner la sidebar en haut de la fenêtre */
+    left: 0; /* Positionner la sidebar à gauche de la fenêtre */
+    height: 100vh; 
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    display: flex;
+  }

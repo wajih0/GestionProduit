@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+
+  
+  .container {
+    display: flex;
+  }
+  
+  .content {
+    flex-grow: 1;
+    padding: 0px;
+    position: inherit;
+  }
+ 
+  
