@@ -1,0 +1,17 @@
+
+button {
+    padding: 5px 10px;
+    color: #2596be;
+  }
+  .card {
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 50px;
+  }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0px;
+}
+  
