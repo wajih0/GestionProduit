@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./dashboard.component.css']
 })
 export class DashboardComponent {
+  showSignup: boolean = false; // Initialize the showSignup property
 
+  constructor() { }
 }
